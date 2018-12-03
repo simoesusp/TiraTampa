@@ -1,0 +1,6 @@
+Original circuit where both sides pulse together: http://tinyurl.com/ychc7gxr
+
+Final version with Mosfet N switched by the direction signal: http://tinyurl.com/yafjv9v8
+
+Please, refer also to this alternative: Vnh2sp30
+https://produto.mercadolivre.com.br/MLB-901487841-ponte-h-monster-motor-shield-vnh2sp30-30a-2-motor-_JM#reco_item_pos=0&reco_backend=machinalis-v2p&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=828a4259-4dbf-4509-b115-ad99987264b7
