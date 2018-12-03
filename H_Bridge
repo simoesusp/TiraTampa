@@ -1,0 +1,5 @@
+This is the description of a 12V H-Bridge cirquit designed to AVOID short circuiting the output Mosfets.
+It works based on theprinciple that Mosfet N would turn ON from 0.7V until Mosfet P turn of point at 11.3V. All this time, the current between the Mosfets would be around 30A!!
+The idea in this projet is to invert that input signal, so that Mosfet N will only turn ON from 0 to 0.7V and will turn OFF long before Mosfet P turn ON when input ignal is higher than 11.3V.
+The H-Bridge is very flexible: one can by the output Mosfets according to the desired drive current and consequently cost of the project.
+
